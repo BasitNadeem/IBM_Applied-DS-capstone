@@ -9,16 +9,32 @@ We are trying to find answers for future successful landing of rocket stages wit
 ## Project Summary
 
 Following procedures were followed during the project: 
-- Data Collection 
+- **Data Collection** 
   * Using SpaceX REST API 
   * Using webscrapping SpaceX wikipedia page 
-- Data Wrangling 
-- Exploratory Data Analysis (EDA) using SQL 
-- Interactive Visual analytics using FOLIUM 
+- **Data Wrangling**
+- **Exploratory Data Analysis (EDA) using SQL** 
+- **Exploratory Data Analysis (EDA) using Data Visualization** 
+
+  ![This is an image](https://github.com/BasitNadeem/IBM_Applied-DS-capstone/blob/master/Assets/1.png)
+  
+  ![This is an image](https://github.com/BasitNadeem/IBM_Applied-DS-capstone/blob/master/Assets/2.png) 
+  
+  ![This is an image](https://github.com/BasitNadeem/IBM_Applied-DS-capstone/blob/master/Assets/3.png)
+  
+- **Interactive Visual analytics using FOLIUM** 
   * Build Interactive Map using folium markers, circle and lines. 
-- DashBoard with Plotly Dash 
+  
+  ![This is an image](https://github.com/BasitNadeem/IBM_Applied-DS-capstone/blob/master/Assets/4.png)
+  
+- **DashBoard with Plotly Dash** 
   * Added dropdown menu for launch site and range slider for payload mass. 
-- Predictive Analysis using Classification Models
+
+ ![This is an image](https://github.com/BasitNadeem/IBM_Applied-DS-capstone/blob/master/Assets/5.png)
+ 
+ ![This is an image](https://github.com/BasitNadeem/IBM_Applied-DS-capstone/blob/master/Assets/6.png)
+ 
+- **Predictive Analysis using Classification Models**
   * Build, tune, evaluate classification models. 
   
   
